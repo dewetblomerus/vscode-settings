@@ -7,8 +7,11 @@
     "editor.minimap.enabled": false,
     "editor.fontSize": 16,
     "terminal.integrated.fontSize": 16,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
+    "extensions.ignoreRecommendations": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.tabSize": 2,
 }
